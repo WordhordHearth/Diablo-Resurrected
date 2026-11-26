@@ -15,6 +15,22 @@ An unofficial fan project for the original **Diablo**. Return to Tristram, desce
 3. Select your Diablo folder containing `DIABDAT.MPQ`, your Hellfire folder if you own the expansion, and your Diablo II: Resurrected folder for modern graphics. Allow about half an hour for the first conversion. Slower PCs may take longer.
 4. When the launcher says **Ready to Play**, choose **Play**. The game installs in the launcher's **Game** subfolder.
 
+### Choose your game folders
+
+Open **Setup** and use **Browse** beside each game you own. Your drive letter and library folders can differ from the examples below.
+
+| Setup field | Example on Windows | How to recognize the folder |
+|---|---|---|
+| Diablo | `D:\Games\Classic\Diablo` | Open the folder containing **DIABDAT.MPQ**. In GOG Galaxy, select Diablo and use **Manage installation → Show folder**. |
+| Hellfire (optional) | `D:\Games\Classic\Diablo\hellfire` | Open the folder containing **hellfire.mpq**, **hfmonk.mpq**, **hfmusic.mpq**, and **hfvoice.mpq**. Leave this field blank to play without Hellfire. |
+| Diablo II: Resurrected (modern graphics) | `D:\Games\Diablo II Resurrected` | In Battle.net, select Diablo II: Resurrected and use the gear beside **Play → Show in Explorer**. Select the game folder one level above **Data**. It contains both **.build.info** and **Data**. |
+
+[![Setup with all three source game folders selected](screenshots/launcher-folders.png)](screenshots/launcher-folders.png)
+
+The launcher creates its own **Game** subfolder automatically. When installation finishes, the home screen shows **Ready To Play**. Choose **Play** to enter the game.
+
+[![Installed launcher showing Play, Verify, Update and Setup](screenshots/launcher-play.png)](screenshots/launcher-play.png)
+
 **Quality of life**
 Alpha I already includes dozens of quality-of-life improvements, with more planned. Here are a few you’ll notice as you play.
 - Shop in a Diablo II–style grid. Browse Griswold’s stock and compare items with what you’re wearing.
