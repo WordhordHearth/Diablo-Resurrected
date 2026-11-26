@@ -12,6 +12,8 @@ An unofficial fan project for the original **Diablo**. Return to Tristram, desce
 
 ## Installation
 
+**Update Diablo II: Resurrected before Setup.** Modern graphics require the latest D2R game files available as of November 26, 2026. In Battle.net, select **Diablo II: Resurrected**, open the gear beside **Play**, and choose **Check for Updates**. Let the update finish. If our launcher already stopped while converting interface art, reopen it and choose **Resume**.
+
 1. Have the original **Diablo** installed. For modern graphics, also install **Diablo II: Resurrected**. **Hellfire** is optional. Modern graphics require a Vulkan-capable GPU. Minimum hardware is still being established during the alpha.
 2. Extract the whole ZIP to a folder where you want to keep the game. Open **DiabloLauncher.exe** and choose **Setup**.
 3. Select your Diablo folder containing `DIABDAT.MPQ`, your Hellfire folder if you own the expansion, and your Diablo II: Resurrected folder for modern graphics. Allow about half an hour for the first conversion. Slower PCs may take longer.
