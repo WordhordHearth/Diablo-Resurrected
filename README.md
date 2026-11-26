@@ -15,6 +15,21 @@ An unofficial fan project for the original **Diablo**. Return to Tristram, desce
 3. Select your Diablo folder containing `DIABDAT.MPQ`, your Hellfire folder if you own the expansion, and your Diablo II: Resurrected folder for modern graphics. Allow about half an hour for the first conversion. Slower PCs may take longer.
 4. When the launcher says **Ready to Play**, choose **Play**. The game installs in the launcher's **Game** subfolder.
 
+**Quality of life**
+- There has been a huge amount of quality of life additions implemented with plans to implement more.
+- Browse shops in a Diablo 2 style grid.
+- Keep a second weapon set ready. Swap between two equipped sets, carry eight potions in a two-row belt, and choose whether nearby gold is picked up automatically in town or in the dungeon.
+- See what a stat does for your hero. Hover over an attribute to see its base value, cap, and class-specific effects. The quick spell picker shows whether a cast uses a learned spell, class skill, staff charge, or scroll.
+- Choose your view. Zoom in up to 4×, press G to switch between classic and modern graphics during play, and press F4 to take a screenshot, including at the campfire.
+- Many more that aren't listed here and many to come.
+
+**Known limitations**
+- Hardware support is still being tested. Modern graphics require a Vulkan-capable GPU. We’re still working on performance and haven’t established minimum hardware specs. If you report slowdowns, please include your GPU, resolution, and where they happened.
+- The Caves can hitch. You may see brief pauses in lava-heavy areas. The lava flow itself also needs another visual pass.
+- Some equipment looks different when worn. An item’s inventory icon and its equipped model can differ. If you find one, a screenshot with the inventory open lets us see both at once.
+- Hellfire’s visual overhaul is incomplete. The original campaign’s sixteen floors are the focus of Alpha I. The Hive and Crypt still need further environment work.
+
+
 ## One dungeon, two views
 
 The same spot on Cathedral floor 4, captured in both graphics modes.
@@ -31,13 +46,13 @@ The same spot on Cathedral floor 4, captured in both graphics modes.
 
 | Caves · Monk | Hell · Barbarian |
 |:---:|:---:|
-| [![Monk at a lava bank in the Caves](screenshots/caves.jpg)](screenshots/caves.jpg) | [![Barbarian on the bone-lined floors of Hell](screenshots/hell.jpg)](screenshots/hell.jpg) |
+| [![Monk at a lava bank in the Caves](screenshots/caves.jpg)](screenshots/D1R_Caves_Basic.png) | [![Barbarian on the bone-lined floors of Hell](screenshots/hell.jpg)](screenshots/hell.jpg) |
 
 | The Butcher's room | The Skeleton King's tomb |
 |:---:|:---:|
 | [![The Butcher waits with his cleaver inside his bloodstained room](screenshots/butcher.jpg)](screenshots/butcher.jpg) | [![The Skeleton King in his tomb](screenshots/leoric.jpg)](screenshots/leoric.jpg) |
 
-## A Barbarian walkthrough
+## A Brief Starting Look
 
 | Along the river | Trading at the forge |
 |:---:|:---:|
@@ -46,12 +61,6 @@ The same spot on Cathedral floor 4, captured in both graphics modes.
 | Into the Cathedral | First encounters |
 |:---:|:---:|
 | [![Exploring a torchlit Cathedral chamber](screenshots/barbarian-descent.jpg)](screenshots/barbarian-descent.jpg) | [![The Barbarian fighting beside a stone tomb](screenshots/barbarian-fight.jpg)](screenshots/barbarian-fight.jpg) |
-
-## Around Tristram
-
-| The cathedral and its graveyard | The well and the smithy |
-|:---:|:---:|
-| [![The cathedral above its red-lit entrance and graveyard](screenshots/tristram-cathedral.jpg)](screenshots/tristram-cathedral.jpg) | [![The village well between the forge and tavern](screenshots/tristram-square.jpg)](screenshots/tristram-square.jpg) |
 
 ## Between dungeon runs
 
