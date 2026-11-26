@@ -1,0 +1,56 @@
+# Diablo Resurrected · Alpha I
+
+An unofficial fan project for the original **Diablo**. Return to Tristram, descend all sixteen dungeon floors, and face Diablo in Hell. Press **G** mid-fight to switch between classic graphics and the new 3D world. The fight keeps going.
+
+[![The Butcher waits with his cleaver inside his bloodstained room](screenshots/butcher.jpg)](screenshots/butcher.jpg)
+
+## Join the Windows playtest
+
+**[Get Alpha I from Releases](https://github.com/WordhordHearth/Diablo-Resurrected/releases)** · Choose **Diablo-Resurrected-Setup.zip** (363 MiB).
+
+1. Have the original **Diablo** installed. For modern graphics, also install **Diablo II: Resurrected**. **Hellfire** is optional. Modern graphics require a Vulkan-capable GPU. Minimum hardware is still being established during the alpha.
+2. Extract the whole ZIP to a folder where you want to keep the game. Open **DiabloLauncher.exe** and choose **Setup**.
+3. Select your Diablo folder containing `DIABDAT.MPQ`, your Hellfire folder if you own the expansion, and your Diablo II: Resurrected folder for modern graphics. Allow about half an hour for the first conversion. Slower PCs may take longer.
+4. When the launcher says **Ready to Play**, choose **Play**. The game installs in the launcher's **Game** subfolder.
+
+## One dungeon, two views
+
+The same spot on Cathedral floor 4, captured in both graphics modes.
+
+| Classic | Modern |
+|:---:|:---:|
+| [![Cathedral floor 4 in classic graphics](screenshots/cathedral-classic.jpg)](screenshots/cathedral-classic.jpg) | [![The same spot on Cathedral floor 4 in modern graphics](screenshots/cathedral-modern.jpg)](screenshots/cathedral-modern.jpg) |
+
+## Beneath Tristram
+
+| Cathedral · Bard | Catacombs · Rogue |
+|:---:|:---:|
+| [![Bard exploring the Cathedral](screenshots/cathedral.jpg)](screenshots/cathedral.jpg) | [![Rogue exploring the Catacombs](screenshots/catacombs.jpg)](screenshots/catacombs.jpg) |
+
+| Caves · Monk | Hell · Barbarian |
+|:---:|:---:|
+| [![Monk at a lava bank in the Caves](screenshots/caves.jpg)](screenshots/caves.jpg) | [![Barbarian on the bone-lined floors of Hell](screenshots/hell.jpg)](screenshots/hell.jpg) |
+
+## Between dungeon runs
+
+Compare gear at Griswold's forge, preview a repair quote, and move loot between your inventory and a **100-page stash**. Swap between two weapon sets and carry eight potions in the expanded belt.
+
+| Griswold's shop | Paged stash |
+|:---:|:---:|
+| [![Shop inventory at the blacksmith](screenshots/forge.jpg)](screenshots/forge.jpg) | [![The stash open beside the player inventory](screenshots/stash.jpg)](screenshots/stash.jpg) |
+
+## Choose your rules
+
+Create a Warrior, Rogue, or Sorcerer at the campfire. Hellfire adds the Monk, Bard, and Barbarian.
+
+- **Solo Self-Found (SSF)** gives your hero a personal stash. You can still shop in town.
+- **Hardcore** gives your hero one life. Fallen heroes remain at the campfire as ghosts.
+- **Ironman** combines Hardcore and SSF. Stock up before your first descent. Afterward you can walk back for quests and expansion access, but town services and your stash close.
+
+| Choose a hero | Fallen Hardcore hero |
+|:---:|:---:|
+| [![Heroes around the character selection campfire](screenshots/camp.jpg)](screenshots/camp.jpg) | [![A fallen Hardcore hero at the campfire](screenshots/fallen.jpg)](screenshots/fallen.jpg) |
+
+## Report a bug
+
+Use the bug icon in the launcher or game to prepare a report. Review it, then paste it into a **[new GitHub issue](https://github.com/WordhordHearth/Diablo-Resurrected/issues/new)**. Include your class, dungeon floor, graphics mode, and what you were doing when it happened. For visual problems, **F4** takes a screenshot. Occasional hitches in lava areas are a known playtest issue.
