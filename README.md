@@ -8,7 +8,9 @@ An unofficial fan project for the original **Diablo**. Return to Tristram, desce
 
 ## Join the Windows playtest
 
-**[Download Alpha I for Windows](https://github.com/WordhordHearth/Diablo-Resurrected/releases/download/v0.1.0-alpha.12/Diablo-Resurrected-Setup.zip)** · 363 MiB. [Release notes](https://github.com/WordhordHearth/Diablo-Resurrected/releases/tag/v0.1.0-alpha.12) | [Join the Discord](https://discord.gg/EGKxgCJr6)
+**[Download Alpha I for Windows](https://github.com/WordhordHearth/Diablo-Resurrected/releases/download/v0.1.0-alpha.13/Diablo-Resurrected-Setup.zip)** · 363 MiB. [Release notes](https://github.com/WordhordHearth/Diablo-Resurrected/releases/tag/v0.1.0-alpha.13) | [Join the Discord](https://discord.gg/EGKxgCJr6)
+
+## Installation
 
 1. Have the original **Diablo** installed. For modern graphics, also install **Diablo II: Resurrected**. **Hellfire** is optional. Modern graphics require a Vulkan-capable GPU. Minimum hardware is still being established during the alpha.
 2. Extract the whole ZIP to a folder where you want to keep the game. Open **DiabloLauncher.exe** and choose **Setup**.
@@ -25,13 +27,16 @@ Open **Setup** and use **Browse** beside each game you own. Your drive letter an
 | Hellfire (optional) | `D:\Games\Classic\Diablo\hellfire` | Open the folder containing **hellfire.mpq**, **hfmonk.mpq**, **hfmusic.mpq**, and **hfvoice.mpq**. Leave this field blank to play without Hellfire. |
 | Diablo II: Resurrected (modern graphics) | `D:\Games\Diablo II Resurrected` | In Battle.net, select Diablo II: Resurrected and use the gear beside **Play → Show in Explorer**. Select the game folder one level above **Data**. It contains both **.build.info** and **Data**. |
 
-[![Setup with all three source game folders selected](screenshots/launcher-folders.png)](screenshots/launcher-folders.png)
+[![Alpha I Setup with valid Diablo, Hellfire, and Diablo II: Resurrected folder selections](screenshots/launcher-folders.png)](screenshots/launcher-folders.png)
+
+### Ready to play
 
 The launcher creates its own **Game** subfolder automatically. When installation finishes, the home screen shows **Ready To Play**. Choose **Play** to enter the game.
 
-[![Installed launcher showing Play, Verify, Update and Setup](screenshots/launcher-play.png)](screenshots/launcher-play.png)
+[![Ready to Play with Play, Verify, Update and Setup in the center, and Discord, News and Report a Bug at the lower right](screenshots/launcher-play.png)](screenshots/launcher-play.png)
 
-**Quality of life**
+## Quality of life
+
 Alpha I already includes dozens of quality-of-life improvements, with more planned. Here are a few you’ll notice as you play.
 - Shop in a Diablo II–style grid. Browse Griswold’s stock and compare items with what you’re wearing.
 - Organize your loot. Store gear across 100 stash pages and Ctrl-click to move items between your stash and inventory.
@@ -40,7 +45,8 @@ Alpha I already includes dozens of quality-of-life improvements, with more plann
 - Choose how to cast. The quick spell picker distinguishes learned spells, class skills, staff charges, and scrolls.
 - Choose your view. Zoom in up to 4×, press G to switch between classic and modern graphics during play, and press F4 to take a screenshot, including at the campfire.
 
-**Known limitations**
+## Known limitations
+
 - Hardware support is still being tested. Modern graphics require a Vulkan-capable GPU. We’re still working on performance and haven’t established minimum hardware specs. If you report slowdowns, please include your GPU, resolution, and where they happened.
 - The Caves can hitch. You may see brief pauses in lava-heavy areas. The lava flow itself also needs another visual pass.
 - Some equipment looks different when worn. An item’s inventory icon and its equipped model can differ. If you find one, a screenshot with the inventory open lets us see both at once.
