@@ -16,12 +16,13 @@ An unofficial fan project for the original **Diablo**. Return to Tristram, desce
 4. When the launcher says **Ready to Play**, choose **Play**. The game installs in the launcher's **Game** subfolder.
 
 **Quality of life**
-- There has been a huge amount of quality of life additions implemented with plans to implement more.
-- Browse shops in a Diablo 2 style grid.
-- Keep a second weapon set ready. Swap between two equipped sets, carry eight potions in a two-row belt, and choose whether nearby gold is picked up automatically in town or in the dungeon.
-- See what a stat does for your hero. Hover over an attribute to see its base value, cap, and class-specific effects. The quick spell picker shows whether a cast uses a learned spell, class skill, staff charge, or scroll.
+Alpha I already includes dozens of quality-of-life improvements, with more planned. Here are a few you’ll notice as you play.
+- Shop in a Diablo II–style grid. Browse Griswold’s stock and compare items with what you’re wearing.
+- Organize your loot. Store gear across 100 stash pages and Ctrl-click to move items between your stash and inventory.
+- Keep a second weapon set ready. Swap between two equipped sets, carry eight potions in a two-row belt, and set automatic gold pickup separately for town and dungeon.
+- See what a stat does for your hero. Hover over an attribute to see its base value, cap, and class-specific effects.
+- Choose how to cast. The quick spell picker distinguishes learned spells, class skills, staff charges, and scrolls.
 - Choose your view. Zoom in up to 4×, press G to switch between classic and modern graphics during play, and press F4 to take a screenshot, including at the campfire.
-- Many more that aren't listed here and many to come.
 
 **Known limitations**
 - Hardware support is still being tested. Modern graphics require a Vulkan-capable GPU. We’re still working on performance and haven’t established minimum hardware specs. If you report slowdowns, please include your GPU, resolution, and where they happened.
