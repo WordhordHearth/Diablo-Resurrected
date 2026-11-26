@@ -8,7 +8,7 @@ An unofficial fan project for the original **Diablo**. Return to Tristram, desce
 
 ## Join the Windows playtest
 
-**[Download Alpha I for Windows](https://github.com/WordhordHearth/Diablo-Resurrected/releases/download/v0.1.0-alpha.13/Diablo-Resurrected-Setup.zip)** · 363 MiB. [Release notes](https://github.com/WordhordHearth/Diablo-Resurrected/releases/tag/v0.1.0-alpha.13) | [Join the Discord](https://discord.gg/EGKxgCJr6)
+**[Download Alpha I for Windows](https://github.com/WordhordHearth/Diablo-Resurrected/releases/download/v0.1.0-alpha.14/Diablo-Resurrected-Setup.zip)** · 363 MiB. [Release notes](https://github.com/WordhordHearth/Diablo-Resurrected/releases/tag/v0.1.0-alpha.14) | [Join the Discord](https://discord.gg/EDPBuQXEks)
 
 ## Installation
 
@@ -107,4 +107,4 @@ Create a Warrior, Rogue, or Sorcerer at the campfire. Hellfire adds the Monk, Ba
 
 ## Report a bug
 
-Use the bug icon in the launcher or game to prepare a report. Review it, then share it in the [playtest Discord](https://discord.gg/EGKxgCJr6) or paste it into a **[new GitHub issue](https://github.com/WordhordHearth/Diablo-Resurrected/issues/new)**. Include your class, dungeon floor, graphics mode, and what you were doing when it happened. For visual problems, **F4** takes a screenshot. Occasional hitches in lava areas are a known playtest issue.
+Use the bug icon in the launcher or game to prepare a report. Review it, then share it in the [playtest Discord](https://discord.gg/EDPBuQXEks) or paste it into a **[new GitHub issue](https://github.com/WordhordHearth/Diablo-Resurrected/issues/new)**. Include your class, dungeon floor, graphics mode, and what you were doing when it happened. For visual problems, **F4** takes a screenshot. Occasional hitches in lava areas are a known playtest issue.
