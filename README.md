@@ -1,8 +1,10 @@
 # Diablo Resurrected · Alpha I
 
+> **Early playtest.** Alpha I has had limited testing. You may encounter bugs, performance issues, or hardware compatibility problems. If something goes wrong, please [report what happened](#report-a-bug).
+
 An unofficial fan project for the original **Diablo**. Return to Tristram, descend all sixteen dungeon floors, and face Diablo in Hell. Press **G** mid-fight to switch between classic graphics and the new 3D world. The fight keeps going.
 
-[![The Butcher waits with his cleaver inside his bloodstained room](screenshots/butcher.jpg)](screenshots/butcher.jpg)
+[![Heroes around the character selection campfire](screenshots/camp.jpg)](screenshots/camp.jpg)
 
 ## Join the Windows playtest
 
@@ -31,6 +33,26 @@ The same spot on Cathedral floor 4, captured in both graphics modes.
 |:---:|:---:|
 | [![Monk at a lava bank in the Caves](screenshots/caves.jpg)](screenshots/caves.jpg) | [![Barbarian on the bone-lined floors of Hell](screenshots/hell.jpg)](screenshots/hell.jpg) |
 
+| The Butcher's room | The Skeleton King's tomb |
+|:---:|:---:|
+| [![The Butcher waits with his cleaver inside his bloodstained room](screenshots/butcher.jpg)](screenshots/butcher.jpg) | [![The Skeleton King in his tomb](screenshots/leoric.jpg)](screenshots/leoric.jpg) |
+
+## A Barbarian walkthrough
+
+| Along the river | Trading at the forge |
+|:---:|:---:|
+| [![A Barbarian on the riverbank in Tristram](screenshots/barbarian-river.jpg)](screenshots/barbarian-river.jpg) | [![The Barbarian shopping at the forge](screenshots/barbarian-shop.jpg)](screenshots/barbarian-shop.jpg) |
+
+| Into the Cathedral | First encounters |
+|:---:|:---:|
+| [![Exploring a torchlit Cathedral chamber](screenshots/barbarian-descent.jpg)](screenshots/barbarian-descent.jpg) | [![The Barbarian fighting beside a stone tomb](screenshots/barbarian-fight.jpg)](screenshots/barbarian-fight.jpg) |
+
+## Around Tristram
+
+| The cathedral and its graveyard | The well and the smithy |
+|:---:|:---:|
+| [![The cathedral above its red-lit entrance and graveyard](screenshots/tristram-cathedral.jpg)](screenshots/tristram-cathedral.jpg) | [![The village well between the forge and tavern](screenshots/tristram-square.jpg)](screenshots/tristram-square.jpg) |
+
 ## Between dungeon runs
 
 Compare gear at Griswold's forge, preview a repair quote, and move loot between your inventory and a **100-page stash**. Swap between two weapon sets and carry eight potions in the expanded belt.
@@ -47,9 +69,9 @@ Create a Warrior, Rogue, or Sorcerer at the campfire. Hellfire adds the Monk, Ba
 - **Hardcore** gives your hero one life. Fallen heroes remain at the campfire as ghosts.
 - **Ironman** combines Hardcore and SSF. Stock up before your first descent. Afterward you can walk back for quests and expansion access, but town services and your stash close.
 
-| Choose a hero | Fallen Hardcore hero |
+| Choose Ironman | Fallen Hardcore hero |
 |:---:|:---:|
-| [![Heroes around the character selection campfire](screenshots/camp.jpg)](screenshots/camp.jpg) | [![A fallen Hardcore hero at the campfire](screenshots/fallen.jpg)](screenshots/fallen.jpg) |
+| [![Choosing Ironman at character creation](screenshots/ironman.jpg)](screenshots/ironman.jpg) | [![A fallen Hardcore hero at the campfire](screenshots/fallen.jpg)](screenshots/fallen.jpg) |
 
 ## Report a bug
 
